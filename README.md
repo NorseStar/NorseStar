@@ -6,7 +6,7 @@ I'm a **Computer Engineering** student at **Western Norway University of Applied
 - Java development ☕
 - Game design (Godot)
 - Pixel art 🎨  (Aseprite)
-- Logic, philosophy, and music analysis 🎸
+- Logic, philosophy, and music ♬ 
 
 ---
 
@@ -38,9 +38,13 @@ I'm a **Computer Engineering** student at **Western Norway University of Applied
 ## 🧠 Interests
 
 - **Philosophy & Logic:** Argumentation and debate, semantics, paradoxes, (some) politics
-- **Music:** Rock, folk, country, indie and Norse-inspired; love analyzing lyrics
+- **Music:**\
+  **Genres:** Rock, folk, country, indie and Norse-inspired; love analyzing lyrics\
+  **Instruments:** Currently learning to play an acoustic nylon 🎸, and I used to play the 🎻 for 5 years\
+  **Favourite artists:** KONGOS (fav band), The Heavy, Royal Blood, Kiltro, MISSIO, KALEO and Des Rocs
 - **Outdoors:** Scouting, hiking, and camping
-- **Pixel art** & creative game mechanics
+- **Art:** Currently learning pixel art, but still a beginner
+- **Games:** I play mostly Overwatch 2, my favourite genre is horror, and I'm wanting to start game development
 
 ---
 

@@ -57,7 +57,7 @@ I'm a **Computer Engineering** student at **Western Norway University of Applied
 <details>
   <summary>Fun facts</summary>
 
-- Grew up in Norway, love Norse history & mythology
-- Used to play violin for 5 years, currently learning guitar
+- Grew up in Norway, I'm half british, and I love Norse history & mythology
 - Always up for a philosophical debate
+- I have (mild) tourettes
 </details>

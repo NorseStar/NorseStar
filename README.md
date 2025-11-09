@@ -40,7 +40,7 @@ I'm a **Computer Engineering** student at **Western Norway University of Applied
 - **Philosophy & Logic:** Argumentation and debate, semantics, paradoxes, (some) politics
 - **Music:**\
   **Genres:** Rock, folk, country, indie and Norse-inspired; love analyzing lyrics\
-  **Instruments:** Currently learning to play an acoustic nylon 🎸, and I used to play the 🎻 for 5 years\
+  **Instruments:** Currently learning to play a classical 🎸, and I used to play the 🎻 for 5 years\
   **Favourite artists:** KONGOS (fav band), The Heavy, Royal Blood, Kiltro, MISSIO, KALEO and Des Rocs
 - **Outdoors:** Scouting, hiking, and camping
 - **Art:** Currently learning pixel art, but still a beginner

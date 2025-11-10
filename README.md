@@ -2,7 +2,7 @@
 
 <!-- Banner or Profile Pic could go here -->
 
-I'm a **Computer Engineering** student at **Western Norway University of Applied Sciences (HVL)** with a passion for:
+I'm a **Computer Engineering** student at with a passion for:
 - Java development ☕
 - Game design (Godot)
 - Pixel art 🎨  (Aseprite)
